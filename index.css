@@ -1,0 +1,129 @@
+html, body, div, span, applet,
+object, iframe, 
+h1 ,h2, h3, h4, h5 ,h6,
+p, blockquote, pre,
+a, abbr, acronym, address, big,
+cite, code,
+del, em, img, ins, kbd, q,
+s, samp,
+small, strike, strong, sub, sup,
+tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, 
+thead, tr, th, td,
+article, aside, canvas, details, 
+embed, 
+figure, figcaption, footer, 
+header, hgroup,
+menu, nav, output, ruby, section, 
+summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+body{margin: 30%;}
+
+.not{
+    background-color: #ddb9a3;
+    color: white;
+    margin-block-start: 10%;
+    margin-block-end: 10%;
+}
+
+nav{
+    display:inline-block;
+    
+    width: 100%
+}
+
+h1{
+    font-family: Chelsea-Market;
+    font-size: 22px;
+}
+
+.come{font-family:'Roboto Mono';
+}
+  img{
+      height: 150px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+  } 
+
+.header_img{
+    width: 30%;
+    border-radius: 50%
+}
+
+.P{
+    background-color: #FF764E;
+    border-radius: 8px;
+    display:inline-block;
+    font-size: 16px;
+    color:white;
+    width: 15%;
+    height: 50%;
+    text-align: center;
+    padding: 1% 0;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.L{
+    background-color: #5ED3EB;
+    border-radius: 8px;
+    display:inline-block;
+    font-size: 16px;
+    color:white;
+    width: 15%;
+    height: 50%;
+    text-align: center;
+    padding: 1% 0;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.G{
+    background-color: #FFCD69;
+    border-radius: 8px;
+    display:inline-block;
+    font-size: 20px;
+    color:white;
+    width: 15%;
+    height: 50%;
+    text-align: center;
+    padding: 1% 0;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.hot{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.bold{
+    font-weight: bold;
+    color: white;}
+
+footer{
+    background-color: #F9E7DC;
+    width: 100%;
+    margin-top: 10%;
+}
+
+.footer_img{
+    width: 100%;
+    margin-top: 30%;
+   }
+
